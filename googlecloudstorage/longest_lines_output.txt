@@ -1,0 +1,4 @@
+Longest Line Length: 118
+
+Longest Line(s):
+This is a very very very long line created specifically to test the longest line detection logic in the Python program
