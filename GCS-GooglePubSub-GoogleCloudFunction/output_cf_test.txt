@@ -1,0 +1,5 @@
+Input File: input/test.txt
+Max Length: 118
+Longest Lines:
+This is a very very very long line created specifically to test the longest line detection logic in the Python program
+This is a very very very long line created specifically to test the longest line detection logic in the Python program

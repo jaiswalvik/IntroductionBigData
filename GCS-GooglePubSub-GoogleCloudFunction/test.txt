@@ -1,0 +1,6 @@
+Short line
+This is a medium length line
+This is a very very very long line created specifically to test the longest line detection logic in the Python program
+This is a very very very long line created specifically to test the longest line detection logic in the Python program
+Tiny
+Another long line to test whether multiple longest lines are handled properly
