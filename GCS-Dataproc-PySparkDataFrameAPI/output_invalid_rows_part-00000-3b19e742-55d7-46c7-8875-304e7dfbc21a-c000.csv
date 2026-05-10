@@ -1,0 +1,4 @@
+customer_id,customer_name,city,status,transaction_id,transaction_date,transaction_amount,payment_mode,amount_category,transaction_month
+,Customer_X01,Kochi,active,,,,,,
+c999,Customer_X02,,active,,,,,,
+c998,Customer_X03,Trivandrum,,,,,,,

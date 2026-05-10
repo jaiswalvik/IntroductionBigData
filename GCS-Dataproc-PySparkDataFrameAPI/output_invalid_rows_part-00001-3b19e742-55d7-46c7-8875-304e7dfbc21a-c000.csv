@@ -1,0 +1,5 @@
+customer_id,customer_name,city,status,transaction_id,transaction_date,transaction_amount,payment_mode,amount_category,transaction_month
+c001,,,,,2025-02-10,5000.0,upi,High,2
+,,,,tX01,2025-02-12,4000.0,card,High,2
+c050,,,,tX02,2025-02-15,-300.0,wallet,Low,2
+c020,,,,tX03,,2000.0,cash,High,
